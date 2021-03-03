@@ -7,3 +7,4 @@ https://iamhayoung.github.io/3Dwalls-and-characters/
 * 페이지를 앞뒤로 스크롤하면 출력된 캐릭터가 앞뒤로 움직입니다.
 * 캐릭터는 앞뒤뿐만 아니라, 키보드의 ArrowLeft키 또는 ArrowRight키로 좌우로도 걷습니다.
 * 페이지 우측 상단의 캐릭터 전환 버튼으로, 페이지의 테마(캐릭터종류, 3D wall 색상)를 바꿀 수 있습니다.
+* 페이지 상단에 Progress Bar를 작성해서 현재 페이지의 스크롤 위치를 파악할 수 있도록 했습니다.
